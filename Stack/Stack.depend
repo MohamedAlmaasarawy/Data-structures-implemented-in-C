@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1724783739 source:f:\programming\c\mini projects\stack\stack.c
+	"stack.h"
+
+1724783623 source:f:\programming\c\mini projects\stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"datatypes.h"
+	"stack.h"
+
+1724773441 f:\programming\c\mini projects\stack\datatypes.h
+
+1724784671 f:\programming\c\mini projects\stack\stack.h
+	<stdio.h>
+	"datatypes.h"
+

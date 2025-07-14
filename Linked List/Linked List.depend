@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1725221399 source:f:\programming\c\mini projects\linked list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linked.h"
+
+1725221329 source:f:\programming\c\mini projects\linked list\linked.c
+	"linked.h"
+
+1725214458 f:\programming\c\mini projects\linked list\linked.h
+	<stdio.h>
+	<stdlib.h>
+	"Platform_Types.h"
+
+1725213603 f:\programming\c\mini projects\linked list\platform_types.h
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1724868167 source:f:\programming\c\mini projects\dynamic stack\dstack.c
+	"dstack.h"
+
+1724864679 source:f:\programming\c\mini projects\dynamic stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dstack.h"
+
+1724867187 f:\programming\c\mini projects\dynamic stack\dstack.h
+	"datatypes.h"
+	<stdlib.h>
+
+1724773441 f:\programming\c\mini projects\dynamic stack\datatypes.h
+

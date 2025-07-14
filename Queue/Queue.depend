@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1725073314 source:f:\programming\c\mini projects\queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"datatypes.h"
+	"queue.h"
+
+1725073314 f:\programming\c\mini projects\queue\queue.h
+	<stdlib.h>
+	"datatypes.h"
+
+1725073117 f:\programming\c\mini projects\queue\datatypes.h
+
+1725073314 source:f:\programming\c\mini projects\queue\queue.c
+	"queue.h"
+

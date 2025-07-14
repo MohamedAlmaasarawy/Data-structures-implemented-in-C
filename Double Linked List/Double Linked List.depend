@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1725390345 source:f:\programming\c\mini projects\double linked list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Platform_Types.h"
+	"Dlinked_list.h"
+
+1725295012 f:\programming\c\mini projects\double linked list\dlinked_list.h
+	<stdlib.h>
+	"Platform_Types.h"
+
+1725213603 f:\programming\c\mini projects\double linked list\platform_types.h
+
+1725390186 source:f:\programming\c\mini projects\double linked list\dlinked_list.c
+	"Dlinked_list.h"
+
